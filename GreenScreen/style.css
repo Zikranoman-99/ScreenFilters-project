@@ -1,0 +1,39 @@
+h1 {
+    font-family: arial;
+    text-align:center;
+    background-color:white;
+    width:auto;
+  }
+  
+  body {
+    font-family: arial;
+    margin: 30px;
+    background-color:gold;
+  }
+  
+  canvas{
+    width: 400px;
+    border: 2px solid black;
+    margin-left:250px;
+    background-color:lightblue;
+  }
+  
+  #fgfile{
+    margin-left:400px;
+  }
+  #bgfile{
+    margin-left: 400px;
+  }
+  .function{
+    margin-left:680px;
+  }
+  #create{
+    padding:10px;
+    background-color:pink;
+    border: 2px solid black ;
+  }
+  #clear{
+    padding:10px;
+    background-color:pink;
+    border: 2px solid black;
+  }

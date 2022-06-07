@@ -1,0 +1,48 @@
+.bg{
+    background-color: green;
+  }
+  h1{
+    text-align:center;
+  }
+  
+  canvas{
+    background-color: pink;
+    margin-left:500px;
+    width: 500px;
+    border: 2px solid black;
+    
+  }
+  .space1{
+    margin-left:500px;
+    margin-right:500px;
+    padding:10px;
+    background-color:gold;
+    border: 2px solid black;
+  }
+  #para1{
+    margin-left:180px;
+  }
+  
+  #gray{
+    background-color:darkgrey;
+  }
+  #red{
+    background-color:red;
+  }
+  #multi{
+    background-color:blue;
+  }
+  #reset{
+    background-color:yellow;
+    margin-left:190px;
+  }
+  .space2{
+    margin-left:500px;
+    margin-right:500px;
+    padding:10px;
+    background-color:lightblue;
+     border: 2px solid black;
+  }
+  #para2{
+    margin-left:100px;
+  }
